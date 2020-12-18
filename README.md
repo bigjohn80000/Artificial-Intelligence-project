@@ -20,3 +20,14 @@ Models/models-master/research/object_detection/ find object detection image some
 
 the Two google Colab notebooks are both YOLOv5 models.
 
+We used the github of a fellow brockport college student that did a similar project his github is as follows:
+https://github.com/criogenesis/Tensorflow-MachineLearning-Research
+
+you can find the tutorial he used in his repo, he also does a version of a tutorial typed.
+
+it is important to note alot of the code he used to solve a similar problem was changed to use the TensorFlow model with some updated technologies.
+not everything in his github is also in ours. our project is the most up to date comparatively.
+
+
+
+
