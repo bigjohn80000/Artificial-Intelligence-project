@@ -1,7 +1,7 @@
 # Image Object Detection Using Tensorflow-trained Classifier #
 #
-# Author: Zack Tuttle
-# Date: 7/8/19
+# Author: John Haag
+# Date: Fall Semester 2020
 # Description:
 # This program uses Tensorflow Object Detection to detect a cursor in a given
 # desktop image.
